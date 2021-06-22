@@ -1,0 +1,63 @@
+/**
+ * @name Midnight's Theme
+ * @version 1
+ * @author MidnightGoat
+ * @description My own theme ig
+*/
+
+:root {
+
+--background-image: url(https://i.imgur.com/32V0VeB.gif);
+--background-image-blur: 2px;
+
+
+
+--popout-modal-image: url('https://i.imgur.com/32V0VeB.gif');
+--popout-modal-blur: 2px;
+
+
+
+--home-button-image: url('https://i.imgur.com/hHOpFg9.jpg');
+
+
+
+--serverlist-brightness: 0.7;
+--left-brightness: 0.5;
+--middle-brightness: 0.4;
+--right-brightness: 0;
+
+
+--popout-modal-brightness: 0.75;
+--gradient-primary: 232, 121, 39;
+--gradient-secondary: 232, 121, 39;
+--gradient-direction: 90deg;
+
+
+--tint-colour: 255,51,159;
+--tint-brightness: 0;
+
+
+--window-padding: 1px;
+--window-roundness: 25px;
+--scrollbar-colour: #ffffff0d;
+--link-colour: rgb(1, 255, 86);
+--show-gift-gif-buttons: block;
+--font: 'Whitney';
+--update-notice-1: none;
+
+
+--rs-small-spacing: 2px;
+--rs-medium-spacing: 3px;
+--rs-large-spacing: 4px;
+--rs-small-width: 2px;
+--rs-medium-width: 3px;
+--rs-large-width: 4px;
+--rs-avatar-shape: 50%;
+--rs-online-color: #24A716FF;
+--rs-idle-color: #faa61a;
+--rs-dnd-color: #f04747;
+--rs-offline-color: #636b75;
+--rs-streaming-color: #643da7;
+--rs-invisible-color: #747f8d;
+--rs-phone-visible: block;
+}
